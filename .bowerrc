@@ -1,0 +1,12 @@
+{
+  "directory": "public/bower_components",
+  "registry": "https://registry.bower.io",
+  "shorthand-resolver": "git://github.com//.git",
+  "color": true,
+  "timeout": 60000,
+  "save": true,
+  "interactive": true,
+  "ignoredDependencies": [
+    "jquery"
+  ]
+}
